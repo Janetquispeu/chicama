@@ -1,0 +1,132 @@
+body{
+	background-color: white;
+	
+}
+header{
+	width: 100%;
+	height: 600px;
+	max-width: 100%;
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	overflow: hidden;
+}
+section{
+	
+	max-width: 100%;
+	margin-left: 0%;
+	overflow: hidden;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: relative;
+}
+footer{
+	max-width: 100%;
+	height: 70px;
+	text-align: left;
+	background-color: #323230;
+	position: relative;
+
+}
+header nav{
+	overflow: hidden;
+	margin-top: 45px;
+	margin-left: 0px;
+
+}
+nav div div a {
+	float: left;
+	list-style: none;
+	color: black;
+	font-family: Lora;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-left: 20px;
+	padding-right: 10px;
+}
+.menu{
+	margin-right: 150px;
+	margin-left: 0px;
+	overflow: hidden;
+}
+.boton-sumate{
+	width: 80px;
+	height: 30px;
+	background-color: #FCB739;
+	text-align: center;
+	padding-top: 5px;
+	padding-left: 5px; 
+	margin-top: 40px;
+	border-radius: 2px;
+	border-color: #FCB739;
+	font-size: 15px;
+	display: inline-block;
+	float: left;
+	margin-left: 100px;
+	position: relative;
+
+}
+.sumate{
+	padding-left: 3px;
+	text-transform: none;
+	font-size: 18px;
+}
+.boton{
+	display: inline-block;
+	float: right;
+	margin-top: 30px;
+	list-style: none;
+	padding-right: 1px;
+	position: relative;
+}
+.logo{
+	width: 450px;
+	height: 60px;
+	margin-left: 330px;
+	margin-top: -20px;
+}
+.container {
+	width: 100%;
+	padding-left: 14px; 
+	padding-right: 14px;
+	margin: 0px auto;
+}
+.container .main{
+	margin-top: -7px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 36px;
+	padding-left:  0px;
+	padding-right: 0px;
+}
+div .image{
+ 	display: inline-block;
+ 	float: left;
+ }
+ .img-grupal{
+ 	width: 110%;
+ 	padding-left: 20px;
+ 	padding-right: 20px;
+ 	
+
+ }
+p{
+	margin-left: 17px;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 18px;
+	margin-top: 18px;
+	font-family: Roboto;
+	font-weight: 1000px;
+}
+.footer-p{
+	color: white;
+	font-family: Open+Sans;
+	padding-top: 30px;
+	text-transform: none;
+	margin-left: 50px;
+	font-weight: normal;
+}
+.row-main{
+	margin-right: 30px;
+}
